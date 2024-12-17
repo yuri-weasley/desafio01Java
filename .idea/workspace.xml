@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e845024-878f-4613-aaa4-3cbf6e5ca86b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio01.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estudos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Perfil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Subtracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversorTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yuri-weasley&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yuri-weasley/desafio01Java.git&quot;,
+    &quot;accountId&quot;: &quot;de09c39d-810c-4bf8-939e-c5e5cda1beaf&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -43,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ConversorTemperatura.executor": "Run",
     "Application.Perfil.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.Subtracao.executor": "Run",
@@ -53,7 +57,14 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Subtracao">
+  <component name="RunManager" selected="Application.ConversorTemperatura">
+    <configuration name="ConversorTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConversorTemperatura" />
+      <module name="desafio01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Perfil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Perfil" />
       <module name="desafio01" />
@@ -77,6 +88,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConversorTemperatura" />
         <item itemvalue="Application.Subtracao" />
         <item itemvalue="Application.Soma" />
         <item itemvalue="Application.Perfil" />
@@ -92,7 +104,20 @@
       <option name="presentableId" value="Default" />
       <updated>1734197611555</updated>
     </task>
+    <task id="LOCAL-00001" summary="Minhas resoluções elaboradas dos desdafios propostos no curso &quot;Java: Criando sua primeira aplicação&quot; Com a instrutora Jacqueline Oliveira e Paulo Silveira.">
+      <option name="closed" value="true" />
+      <created>1734350129991</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734350129991</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Minhas resoluções elaboradas dos desdafios propostos no curso &quot;Java: Criando sua primeira aplicação&quot; Com a instrutora Jacqueline Oliveira e Paulo Silveira." />
+    <option name="LAST_COMMIT_MESSAGE" value="Minhas resoluções elaboradas dos desdafios propostos no curso &quot;Java: Criando sua primeira aplicação&quot; Com a instrutora Jacqueline Oliveira e Paulo Silveira." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
