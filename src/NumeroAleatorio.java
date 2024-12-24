@@ -12,7 +12,7 @@ public class NumeroAleatorio {
         //variável de controle
         int tentativas = 0;
 
-        while(tentativas < 5){
+        while(tentativas < 5) {
             System.out.println("Digite um número inteiro como sendo o seu chute: ");
             Scanner leitor = new Scanner(System.in);
             int chute = leitor.nextInt();
