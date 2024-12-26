@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e845024-878f-4613-aaa4-3cbf6e5ca86b" name="Changes" comment="Minhas resoluções elaboradas dos desdafios propostos no curso &quot;Java: Criando sua primeira aplicação&quot; Com a instrutora Jacqueline Oliveira e Paulo Silveira.">
-      <change afterPath="$PROJECT_DIR$/src/AnalisadorNumerico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CalculadoraArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparadorNumerico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fatorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImparPar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tabuada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,11 +57,14 @@
     "Application.ComparadorNumerico.executor": "Run",
     "Application.Concatenacao.executor": "Run",
     "Application.ConversorTemperatura.executor": "Run",
+    "Application.Fatorial.executor": "Run",
+    "Application.ImparPar.executor": "Run",
     "Application.Media.executor": "Run",
     "Application.NumeroAleatorio.executor": "Run",
     "Application.Perfil.executor": "Run",
     "Application.Soma.executor": "Run",
     "Application.Subtracao.executor": "Run",
+    "Application.Tabuada.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -69,21 +72,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculadoraArea">
-    <configuration name="AnalisadorNumerico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnalisadorNumerico" />
-      <module name="desafio01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculaReais" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculaReais" />
-      <module name="desafio01" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Fatorial">
     <configuration name="CalculadoraArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CalculadoraArea" />
       <module name="desafio01" />
@@ -98,8 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumeroAleatorio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumeroAleatorio" />
+    <configuration name="Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fatorial" />
+      <module name="desafio01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImparPar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImparPar" />
+      <module name="desafio01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tabuada" />
       <module name="desafio01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -107,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fatorial" />
+        <item itemvalue="Application.ImparPar" />
+        <item itemvalue="Application.Tabuada" />
         <item itemvalue="Application.CalculadoraArea" />
         <item itemvalue="Application.ComparadorNumerico" />
-        <item itemvalue="Application.AnalisadorNumerico" />
-        <item itemvalue="Application.NumeroAleatorio" />
-        <item itemvalue="Application.CalculaReais" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735041898655</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Minhas resoluções elaboradas dos desdafios propostos no curso &quot;Java: Criando sua primeira aplicação&quot; Com a instrutora Jacqueline Oliveira e Paulo Silveira.">
+      <option name="closed" value="true" />
+      <created>1735134846877</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735134846877</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
