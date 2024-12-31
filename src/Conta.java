@@ -1,7 +1,7 @@
 public class Conta {
     private String nome;
     private String tipo;
-    private double saldo = 0;
+    private double saldo = 1000;
 
     public String getNome() {
         return nome;
@@ -25,15 +25,15 @@ public class Conta {
 
     public void depositar(double valor) {
         saldo += valor;
-        System.out.println("Depósito efetuado com sucesso.");
+        System.out.println("Depósito realizado com sucesso!");
     }
 
     public void transferir(double valor) {
         if(valor <= saldo) {
             System.out.println("Transferência realizada com sucesso.");
             saldo -= valor;
-            System.out.println("Novo saldo: " + saldo);
-            } else {
+            System.out.println("Novo saldo: R$ " + String.format("%.2f", saldo));
+        } else {
             System.out.println("Saldo insuficiente para realizar a operação.");
         }
     }
